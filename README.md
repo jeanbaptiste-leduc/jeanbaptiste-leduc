@@ -17,9 +17,7 @@ J'ai étudié l'ensemble des données de l'entreprise (ventes, stocks, finances 
 * **Aide à la décision :** Création de tableaux de bord interactifs permettant de visualiser instantanément les marchés les plus rentables et les points de vigilance sur les stocks.
 * **Outils :** SQL pour l'extraction et Power BI pour la visualisation.
 
-👉 [Consulter le détail du projet et les tableaux de bord](https://github.com/jeanbaptiste-leduc/votre-projet)
-
-👉 [Accéder au code sur GitHub](https://github.com/jeanbaptiste-leduc/votre-projet)
+👉 [Accéder au code sur GitHub](https://github.com/jeanbaptiste-leduc/Toys_and_models)
 
 ---
 
