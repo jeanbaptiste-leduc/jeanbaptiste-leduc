@@ -5,6 +5,7 @@
 J'étudie les chiffres pour aider les entreprises à prendre les bonnes décisions. Je traduis des données brutes souvent illisibles en tableaux de bord visuels et interactifs, tout en fournissant une analyse approfondie qui permet de comprendre l'histoire cachée derrière les données initiales.
 
 ---
+---
 
 ## Projet 1 : Pilotage d'activité - Toys and Models
 
@@ -20,6 +21,7 @@ J'ai étudié l'ensemble des données de l'entreprise (ventes, stocks, finances 
 👉 [Accéder au code sur GitHub](https://github.com/jeanbaptiste-leduc/Toys_and_models)
 
 ---
+---  
 
 ## 🛠️ Stack technique
 
@@ -29,10 +31,11 @@ J'ai étudié l'ensemble des données de l'entreprise (ventes, stocks, finances 
 * **Outils collaboratifs :** Gestion de projet et partage de code avec GitHub.
 
 ---
+---  
 
 ## 📂 Autres projets réalisés
 
-### [Projet 2] — [Système de recommandation de films](https://github.com/jeanbaptiste-leduc/votre-projet)
+### [Projet 2] — 👉 [Système de recommandation de films](https://github.com/jeanbaptiste-leduc/recommandation_movies)
 * **Objectif :** Création d'algorithmes pour recommander des films en fonction des choix appréciés par le spectateur.
 * Outils :  
 Base de données : MySQL (Requêtage complexe, CTE, et fonctions de fenêtrage).  
